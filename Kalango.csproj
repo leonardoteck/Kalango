@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25AECDC8-0EE6-49E5-BAE9-0E113A3969BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kalango</RootNamespace>
+    <AssemblyName>Kalango</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExceptionHandler, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Leonardo\Documents\GitHub\ExceptionHandler\bin\Debug\ExceptionHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="Geocoding">
+      <HintPath>C:\Users\Leo Costa\Desktop\Geocoding.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDKalango2DataSet.cs">
+      <DependentUpon>BDKalango2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BDKalango2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDKalango2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\ControladorBD.cs" />
+    <Compile Include="Classes\Criptografia.cs" />
+    <Compile Include="Classes\User.cs" />
+    <Compile Include="Classes\Validacoes.cs" />
+    <Compile Include="Forms\Cadastros\CadastroProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\CadastroProdutos.Designer.cs">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\CadastroFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\CadastroFornecedores.Designer.cs">
+      <DependentUpon>CadastroFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\CadastroUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\CadastroUsuarios.Designer.cs">
+      <DependentUpon>CadastroUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\MovProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\MovProdutos.Designer.cs">
+      <DependentUpon>MovProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAjuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAjuda.Designer.cs">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmContainer.Designer.cs">
+      <DependentUpon>frmContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmJanelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmJanelas.Designer.cs">
+      <DependentUpon>frmJanelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuCadastros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuCadastros.Designer.cs">
+      <DependentUpon>MenuCadastros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuConfigs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuConfigs.Designer.cs">
+      <DependentUpon>MenuConfigs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuCtrlEst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuCtrlEst.Designer.cs">
+      <DependentUpon>MenuCtrlEst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuFornecedores.Designer.cs">
+      <DependentUpon>MenuFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\IconeJanela.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\IconeJanela.Designer.cs">
+      <DependentUpon>IconeJanela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuProdutos.Designer.cs">
+      <DependentUpon>MenuProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menus\MenuRelatorios.Designer.cs">
+      <DependentUpon>MenuRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Relatorios\ListaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Relatorios\ListaProdutos.Designer.cs">
+      <DependentUpon>ListaProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Relatorios\Ficha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Relatorios\Ficha.Designer.cs">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Relatorios\ListaFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Relatorios\ListaFornecedores.Designer.cs">
+      <DependentUpon>ListaFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Relatorios\FichaConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Relatorios\ListaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Relatorios\ListaUsuarios.Designer.cs">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Cadastros\CadastroFornecedores.resx">
+      <DependentUpon>CadastroFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\CadastroProdutos.resx">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\CadastroUsuarios.resx">
+      <DependentUpon>CadastroUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\MovProdutos.resx">
+      <DependentUpon>MovProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAjuda.resx">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmContainer.resx">
+      <DependentUpon>frmContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmJanelas.resx">
+      <DependentUpon>frmJanelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuCadastros.resx">
+      <DependentUpon>MenuCadastros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuConfigs.resx">
+      <DependentUpon>MenuConfigs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuCtrlEst.resx">
+      <DependentUpon>MenuCtrlEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuFornecedores.resx">
+      <DependentUpon>MenuFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\IconeJanela.resx">
+      <DependentUpon>IconeJanela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuProdutos.resx">
+      <DependentUpon>MenuProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menus\MenuRelatorios.resx">
+      <DependentUpon>MenuRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Relatorios\ListaFornecedores.resx">
+      <DependentUpon>ListaFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Relatorios\ListaProdutos.resx">
+      <DependentUpon>ListaProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Relatorios\Ficha.resx">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Relatorios\FichaConfig.resx">
+      <DependentUpon>FichaConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Relatorios\ListaUsuarios.resx">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="BDKalango2DataSet.xsc">
+      <DependentUpon>BDKalango2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDKalango2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDKalango2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDKalango2DataSet.xss">
+      <DependentUpon>BDKalango2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo Kalango.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedores_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estoque_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produtos_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatorio_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information_Icon.png" />
+    <None Include="Resources\Help_Icon.png" />
+    <None Include="Resources\Return_Icon.png" />
+    <None Include="Resources\Log_Off_Icon_2.png" />
+    <None Include="Resources\Search_Icon_2.png" />
+    <None Include="Resources\magnifier13.png" />
+    <None Include="Tarefas.txt" />
+    <None Include="Resources\close-button.png" />
+    <None Include="Resources\olhoAberto.png" />
+    <None Include="Resources\olhoFechado.png" />
+    <None Include="Resources\loading2big.gif" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\initials.png" />
+    <None Include="Resources\checked.png" />
+    <None Include="Resources\splash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Config_Icon_2.png" />
+    <Content Include="Cola da ficha.txt" />
+    <None Include="Resources\logo Kalango 2.png" />
+    <None Include="Resources\Show_Open_Window_Icon.png" />
+    <None Include="Resources\Open_Window_Icon_2.png" />
+    <None Include="Resources\Confi_System_Icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+﻿Tarefas:
+ - Corrige o botão Cancelar de todo lugar que tiver
+ - Faz relatório UEPS
+ - Exibe totais na ficha de estoque
+ - Filtro de mês na ficha de estoque
+ - Termina as devoluções
+ - Vê se devoluções funcionam no PEPS e MPM
+ - Configura níveis de acesso no acesso rápido e nos atalhos
+ - Executa todos os TODOs

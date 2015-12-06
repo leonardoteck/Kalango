@@ -1,0 +1,82 @@
+﻿
+=================================================================
+
+Movimentação
+
+0 - [MovimentacaoEstID]     INT        IDENTITY (1, 1) NOT NULL,
+1 - [Preco]                 MONEY      NOT NULL,
+2 - [Quantidade]            FLOAT (53) NOT NULL,
+3 - [Total]                 MONEY      NOT NULL,
+4 - [TipoMovimentacaoEstID] INT        NOT NULL,
+5 - [Data]                  DATETIME   NOT NULL,
+6 - [ProdutoID]             INT        NOT NULL,
+
+=================================================================
+
+Baixa
+
+0 - [SaidaID]           INT        IDENTITY (1, 1) NOT NULL,
+1 - [LoteID]            INT        NOT NULL,
+2 - [MovimentacaoEstID] INT        NOT NULL,
+3 - [QtV]               FLOAT (53) NOT NULL,
+4 - [TotalV]            MONEY      NOT NULL,
+
+=================================================================
+
+Venda
+
+0 - [VendaID]           INT        IDENTITY (1, 1) NOT NULL,
+1 - [ProdutoID]         INT        NOT NULL,
+2 - [Quantidade]        FLOAT (53) NOT NULL,
+3 - [Preco]             MONEY      NOT NULL,
+4 - [Total]             MONEY      NOT NULL,
+5 - [Data]              DATETIME   NOT NULL,
+6 - [MovimentacaoEstID] INT        NOT NULL,
+
+=================================================================
+
+Devolução
+
+0 - [DevolucaoID]       INT        IDENTITY (1, 1) NOT NULL,
+1 - [ProdutoID]         INT        NOT NULL,
+2 - [TipoDevolucao]     INT        NOT NULL,
+3 - [Quantidade]        FLOAT (53) NOT NULL,
+4 - [PrecoComprado]     MONEY      NULL,
+5 - [PrecoEstoque]      MONEY      NOT NULL,
+6 - [PrecoVendido]      MONEY      NULL,
+7 - [Data]              DATE       NOT NULL,
+8 - [MovimentacaoEstID] INT        NOT NULL,
+
+=================================================================
+
+Relatório
+
+ 0 - Data
+ 1 - Histórico
+
+ 2 - Qt Entrada
+ 3 - Preço Entrada
+ 4 - Total Entrada
+
+ 5 - Qt Saída
+ 6 - Preço Saída
+ 7 - Total Saída
+
+ 8 - Qt Saldo
+ 9 - Preco Saldo
+10 - Total Saldo
+
+=================================================================
+
+Tipo Movimentação
+
+1 - Entrada (entrada)              |1 - Entrada (entrada)
+2 - Baixa (saida)                  |4 - Devolução de venda
+3 - Venda (saida)                  |6 - Estoque Inicial
+4 - Devolução de venda (entrada)   |2 - Baixa (saida)
+5 - Devolução de compra (saida)    |3 - Venda
+6 - Estoque Inicial (entrada)      |5 - Devolução de compra
+7 - Desconto sobre venda (saida)   |7 - Desconto sobre venda
+8 - Frete (saida)                  |8 - Frete
+
+=================================================================

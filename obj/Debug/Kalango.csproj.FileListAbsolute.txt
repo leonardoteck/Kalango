@@ -1,0 +1,227 @@
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\bin\Debug\Kalango.exe.config
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\bin\Debug\Kalango.exe
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\bin\Debug\Kalango.pdb
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.exe
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.pdb
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.Login2.resources
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+C:\Users\Leo Costa\Documents\Visual Studio 2013\Projects\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\bin\Debug\Kalango.exe.config
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\bin\Debug\Kalango.exe
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\bin\Debug\Kalango.pdb
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.exe
+C:\Users\Ju e De\OneDrive\Sistema\Kalango\Kalango\obj\Debug\Kalango.pdb
+C:\Users\aluno\Desktop\Kalango\bin\Debug\Kalango.exe.config
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.exe
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.pdb
+C:\Users\aluno\Desktop\Kalango\bin\Debug\Kalango.exe
+C:\Users\aluno\Desktop\Kalango\bin\Debug\Kalango.pdb
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.Login.resources
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+C:\Users\aluno\Desktop\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+E:\Kalango\Kalango\bin\Debug\Kalango.exe
+H:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+H:\Kalango\Kalango\obj\Debug\Kalango.exe
+H:\Kalango\Kalango\obj\Debug\Kalango.pdb
+H:\Kalango\Kalango\bin\Debug\Kalango.exe
+H:\Kalango\Kalango\bin\Debug\Kalango.pdb
+H:\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+H:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+J:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+J:\Kalango\Kalango\obj\Debug\Kalango.exe
+J:\Kalango\Kalango\obj\Debug\Kalango.pdb
+J:\Kalango\Kalango\bin\Debug\Kalango.exe
+J:\Kalango\Kalango\bin\Debug\Kalango.pdb
+J:\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+J:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+G:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+G:\Kalango\Kalango\obj\Debug\Kalango.exe
+G:\Kalango\Kalango\obj\Debug\Kalango.pdb
+G:\Kalango\Kalango\bin\Debug\BDKalango.mdf
+G:\Kalango\Kalango\bin\Debug\BDKalango_log.ldf
+G:\Kalango\Kalango\bin\Debug\Kalango.exe
+G:\Kalango\Kalango\bin\Debug\Kalango.pdb
+G:\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+G:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+G:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+H:\Kalango\Kalango\bin\Debug\BDKalango2.mdf
+H:\Kalango\Kalango\bin\Debug\BDKalango2_log.ldf
+H:\Kalango\Kalango\bin\Debug\ExceptionHandler.pdb
+H:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MenuConfigs.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MenuFornecedores.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.MenuRelatorios.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.ListaFornecedores.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.PEPS.resources
+H:\Kalango\Kalango\obj\Debug\Kalango.ProdDatePicker.resources
+J:\Kalango\Kalango\bin\Debug\BDKalango2.mdf
+J:\Kalango\Kalango\bin\Debug\BDKalango2_log.ldf
+J:\Kalango\Kalango\bin\Debug\ExceptionHandler.pdb
+J:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.frmJanelas.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuConfigs.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuCtrlEst.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuFornecedores.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.MenuRelatorios.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.ListaFornecedores.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.PEPS.resources
+J:\Kalango\Kalango\obj\Debug\Kalango.ProdDatePicker.resources
+F:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+F:\Kalango\Kalango\bin\Debug\Kalango.exe
+F:\Kalango\Kalango\bin\Debug\Kalango.pdb
+F:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.CadastroUsuarios.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.frmJanelas.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuConfigs.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuCtrlEst.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuFornecedores.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.MenuRelatorios.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.ListaFornecedores.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.ListaProdutos.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.Ficha.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.FichaConfig.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+F:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+F:\Kalango\Kalango\obj\Debug\Kalango.exe
+F:\Kalango\Kalango\obj\Debug\Kalango.pdb
+F:\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+E:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+E:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.CadastroUsuarios.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.frmJanelas.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuConfigs.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuCtrlEst.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuFornecedores.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.MenuRelatorios.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.ListaFornecedores.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.ListaProdutos.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.Ficha.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.FichaConfig.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.ListaUsuarios.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+E:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+E:\Kalango\Kalango\obj\Debug\Kalango.exe
+E:\Kalango\Kalango\obj\Debug\Kalango.pdb
+E:\Kalango\Kalango\bin\Debug\Kalango.pdb
+F:\Kalango\Kalango\obj\Debug\Kalango.ListaUsuarios.resources
+D:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+D:\Kalango\Kalango\bin\Debug\Kalango.exe
+D:\Kalango\Kalango\bin\Debug\Kalango.pdb
+D:\Kalango\Kalango\bin\Debug\ExceptionHandler.dll
+D:\Kalango\Kalango\bin\Debug\ExceptionHandler.pdb
+D:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.CadastroUsuarios.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.frmJanelas.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuConfigs.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuCtrlEst.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuFornecedores.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.MenuRelatorios.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.ListaFornecedores.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.ListaProdutos.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.Ficha.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.FichaConfig.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.ListaUsuarios.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+D:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+D:\Kalango\Kalango\obj\Debug\Kalango.exe
+D:\Kalango\Kalango\obj\Debug\Kalango.pdb
+D:\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+D:\Kalango\Kalango\obj\Debug\Kalango.frmAjuda.resources
+K:\Kalango\Kalango\bin\Debug\Kalango.exe.config
+K:\Kalango\Kalango\bin\Debug\Kalango.exe
+K:\Kalango\Kalango\bin\Debug\Kalango.pdb
+K:\Kalango\Kalango\bin\Debug\ExceptionHandler.pdb
+K:\Kalango\Kalango\obj\Debug\Kalango.csprojResolveAssemblyReference.cache
+K:\Kalango\Kalango\obj\Debug\Kalango.CadastroFornecedores.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.CadastroProdutos.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.CadastroUsuarios.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MovProdutos.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.frmAjuda.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.frmContainer.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.frmJanelas.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.Login.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuCadastros.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuConfigs.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuCtrlEst.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuFornecedores.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuPrincipal.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.IconeJanela.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuProdutos.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.MenuRelatorios.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.ListaFornecedores.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.ListaProdutos.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.Ficha.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.FichaConfig.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.ListaUsuarios.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.SplashScreen.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.Properties.Resources.resources
+K:\Kalango\Kalango\obj\Debug\Kalango.csproj.GenerateResource.Cache
+K:\Kalango\Kalango\obj\Debug\Kalango.exe
+K:\Kalango\Kalango\obj\Debug\Kalango.pdb
