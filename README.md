@@ -7,8 +7,8 @@ Desenvolvido para entrega de trabalho interdisciplinar do curso de Análise e De
 **Design e desenvolvimento por:** Leonardo Costa.
 
 ### Print screens
-![Login](/prints/1 login.png)  
-![Menu Principal](/prints/2 menu principal.png)  
+![Login](https://github.com/leonardoteck/Kalango/blob/master/prints/1%20login.png?raw=true)  
+![Menu Principal](https://github.com/leonardoteck/Kalango/blob/master/prints/2%20menu%20principal.png?raw=true)  
 [Clique aqui para mais imagens](https://github.com/leonardoteck/Kalango/tree/master/prints)
 
 
